@@ -47,12 +47,6 @@ Run the compiled program with the following command:<br />
 
 Note: the final image can be different with different threshold values.
 
-Output Images:
-zero-crossing:                                                  gradient:
-         
-edge (T = 230):                                               edge (T = 130):
-         
-accumulator:
-
-final (T = 230):                                                   final (T = 130):
+Output Images:<br />
+**see project report
          
