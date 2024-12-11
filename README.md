@@ -47,6 +47,6 @@ Run the compiled program with the following command:<br />
 
 Note: the final image can be different with different threshold values.
 
-Output Images:<br />
+**Output Images:** <br />
 **see project report
          
